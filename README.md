@@ -31,3 +31,7 @@ Life Expectancy (lifeExp)
 Population (pop)
 Country and Continent
 Year (1952–2007 in 5-year intervals)
+
+📄 License
+
+This project is provided for educational and demonstration purposes.
